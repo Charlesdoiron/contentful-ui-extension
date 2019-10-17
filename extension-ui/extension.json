@@ -1,0 +1,6 @@
+{
+    "id": "charles",
+    "name": "CharlesTest",
+    "srcdoc": "index.html",
+    "fieldTypes": ["Symbol", "Text"]
+  }
